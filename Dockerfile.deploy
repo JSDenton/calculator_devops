@@ -1,0 +1,3 @@
+FROM calc:latest
+
+CMD ["npm", "start"]
